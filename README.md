@@ -7,6 +7,7 @@ A found-footage horror escape game that runs in your browser. Made for a Hallowe
 A journalist has vanished. His tapes survived. Watch them, find the ritual, and end the curse.
 
 **Play:** https://kagutaba.vercel.app/
+
 **Quick demo:** add `?demo=1` to the link 
 
 > **Trigger warning:** horror, sudden loud sounds and frightening imagery.
